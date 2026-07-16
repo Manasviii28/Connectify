@@ -1,4 +1,3 @@
-````md
 # Connectify
 
 Connectify is a social media web application built using **Node.js, Express.js, MongoDB, and EJS**. It allows users to register, log in securely, create posts, edit or delete their own posts, and manage their profiles through a simple web interface.
@@ -142,4 +141,3 @@ This project helped me gain practical experience with:
 **Manasvi Naik**
 
 Computer Engineering Student | Aspiring Full-Stack Developer
-````
