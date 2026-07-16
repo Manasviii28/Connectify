@@ -136,8 +136,4 @@ This project helped me gain practical experience with:
 
 ---
 
-## 👨‍💻 Author
 
-**Manasvi Naik**
-
-Computer Engineering Student | Aspiring Full-Stack Developer
